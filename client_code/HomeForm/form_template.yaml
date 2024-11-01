@@ -29,6 +29,10 @@ components:
       name: feedback_box
       properties: {}
       type: TextArea
+    - layout_properties: {grid_position: 'OQJDBE,JRPBXL'}
+      name: primary_color_1
+      properties: {role: primary-color, text: HELLOOOOO}
+      type: Button
     - event_bindings: {click: submit_button_click}
       layout_properties: {grid_position: 'MHBKKL,GWGQWM'}
       name: submit_button
